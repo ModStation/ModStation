@@ -1,0 +1,6 @@
+* text eol=crlf
+*.dmm merge=merge-dmm
+
+*.jar binary
+*.dmi binary
+*.png binary
