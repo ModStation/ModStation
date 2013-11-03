@@ -6,4 +6,14 @@
 // BEGIN_PREFERENCES
 // END_PREFERENCES
 // BEGIN_INCLUDE
+#include "code\_DEFINES\math.dm"
+#include "code\helpers\files.dm"
+#include "code\helpers\lists.dm"
+#include "code\helpers\logging.dm"
+#include "code\helpers\maths.dm"
+#include "code\helpers\sanitize_values.dm"
+#include "code\helpers\text.dm"
+#include "code\helpers\time.dm"
+#include "code\helpers\type2type.dm"
+#include "code\helpers\unsorted.dm"
 // END_INCLUDE
